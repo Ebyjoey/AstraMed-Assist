@@ -192,6 +192,12 @@ U  = prediction uncertainty (MC Dropout variance)
 
 ---
 
+## 📄 Sample Clinical Report
+
+Download a generated AI report here:  
+👉 [View Triage Report](assets/triage_report_demo.pdf)
+
+
 ## Requirements
 
 - Python 3.9+
@@ -202,10 +208,19 @@ U  = prediction uncertainty (MC Dropout variance)
 
 ---
 
+## 🚀 Demo Outputs
+
+| Feature | Preview |
+|--------|--------|
+| Classification | ![](assets/classification_results.png) |
+| Training Curves | ![](assets/training_curves.png) |
+| Report | [Download PDF](assets/triage_report_demo.pdf) |
+
+----
 ## Citation
 
 ```bibtex
-@inproceedings{sakthi2026multilabel,
+@inproceedings{multilabelclassification,
   title={Multi Label Classification of Pneumonia and Tuberculosis using Deep Learning Techniques},
   author={Sakthi, U and Joseph, Aby and Choudhary, Akshita},
   booktitle={ICAIHC 2026},
