@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Data & models
+data/
+datasets/
+*.pth
+*.pt
+outputs/
+logs/
+
+# Node
+node_modules/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
