@@ -2,7 +2,10 @@
 ### Multi-Label Chest X-Ray Classification, Triage & Reporting System
 
 > Based on: *"Multi Label Classification of Pneumonia and Tuberculosis using Deep Learning Techniques"* — ICAIHC 2026
+---
 
+### 🖥️ System Workflow
+![AstraMed Demo](assets/demo.gif)
 ---
 
 ## System Overview
@@ -216,10 +219,6 @@ Download a generated AI report here:
 | Training Curves | ![](assets/training_curves.png) |
 | Report | [Download PDF](assets/triage_report_demo.pdf) |
 
----
-
-### 🖥️ System Workflow
-![AstraMed Demo](assets/demo.gif)
 
 ---
 
