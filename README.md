@@ -216,7 +216,17 @@ Download a generated AI report here:
 | Training Curves | ![](assets/training_curves.png) |
 | Report | [Download PDF](assets/triage_report_demo.pdf) |
 
-----
+---
+
+### 🖥️ System Workflow
+![AstraMed Demo](assets/demo.gif)
+
+---
+
+### 🧾 AI-Generated Clinical Report
+![Report Preview](assets/report_preview.png)
+
+---
 ## Citation
 
 ```bibtex
